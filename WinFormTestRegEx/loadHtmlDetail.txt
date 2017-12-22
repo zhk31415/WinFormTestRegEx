@@ -1,0 +1,470 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <title>《春梦》迅雷下载,迅影网,高清电影下载,迅雷电影下载,最新电影下载</title>
+    <meta name="keywords" content="春梦迅雷下载,春梦高清下载,春梦bt种子下载,高清电影下载,迅雷电影下载,最新电影下载,迅影网,高清迅雷下载" />
+    <meta name="description" content="春梦迅雷下载,春梦高清下载,迅影网通过程序自动收集了很多最新电影的资源,喜欢看电影的可以到这下载,新老大片一网收录,更多内容期待您的发现。" />
+    <link rel="icon" href="http://www.xunyingwang.com/favicon.ico">
+    <link rel="stylesheet" href="http://www.xunyingwang.com/static/bootstrap-3.3.4/css/bootstrap.min.css">
+    <script src="http://cdn.staticfile.org/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://apps.bdimg.com/libs/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="http://www.xunyingwang.com/static/js/main.js?v=1.4.1"></script>
+    <link rel="stylesheet" rev="stylesheet" type="text/css" media="all" href="http://www.xunyingwang.com/static/style.css?v=1.4.1">
+    <link rel="stylesheet" rev="stylesheet" type="text/css" media="all" href="http://www.xunyingwang.com/static/css/slimbox2.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="http://apps.bdimg.com/libs/html5shiv/3.7/html5shiv.min.js"></script>
+    <script src="http://apps.bdimg.com/libs/respond.js/1.4.2/respond.js"></script>
+    <![endif]-->
+</head>
+<body><script type="text/javascript">var mid = 198049;</script>
+
+<header style="background:#FFF;">
+<div style="padding:5px 0;border-bottom:1px solid #DDD;">
+    <div class="container">
+        <span class="header-help">欢迎来到迅影网，一起分享电影给我们带来的快乐。</span>
+        <div class="pull-right">
+            <a class="header-help" href="javascript:alert('快捷键Ctrl+D可以快速添加到收藏夹。');">Ctrl+D 加入收藏夹</a> -
+            <a class="header-help" style="color:red;" href="http://www.xunyingwang.com/tools/savewebsite">保存到桌面</a>
+        </div>
+    </div>
+</div>
+<div class="container" style="padding:20px 15px;padding-right:0;">
+    <a class="logo pull-left" href="http://www.xunyingwang.com/"></a>
+    <div class="pull-right">
+        <form class="navbar-form pull-right" accept-charset="utf-8" action="http://www.xunyingwang.com/search" role="search">
+            <div class="form-group">
+                <input type="text" class="form-control" name="q" placeholder="请输入电影名字">
+            </div><button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-search"></span> 搜索</button>
+        </form>
+        <div class="header-hot ">
+            <a href="http://www.xunyingwang.com/movie/190820.html">追凶者也</a><a href="http://www.xunyingwang.com/movie/193424.html">湄公河行动</a><a href="http://www.xunyingwang.com/movie/191152.html">反贪风暴2</a><a href="http://www.xunyingwang.com/movie/192595.html">从你的全世界路过</a><a href="http://www.xunyingwang.com/movie/193405.html">爵迹</a>        </div>
+    </div>
+</div>
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container">
+            <ul class="nav navbar-nav">
+<li class=""><a href="http://www.xunyingwang.com/">首页</a></li><li class="active"><a href="http://www.xunyingwang.com/movie">电影</a></li><li class=""><a href="http://www.xunyingwang.com/tv">电视剧</a></li><li class=""><a href="http://www.xunyingwang.com/group">交流圈</a></li><li class=""><a href="http://www.xunyingwang.com/tools/sharevip">迅雷VIP分享</a></li><li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">排行榜<span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu"><li><a href="http://www.xunyingwang.com/movie/top250_douban">豆瓣TOP250</a></li><li><a href="http://www.xunyingwang.com/movie/hotest">最近热门</a></li></ul></li>            </ul>
+                        <div class="pull-right">
+                <ul class="nav navbar-nav">
+                <li><a href="http://www.xunyingwang.com/signup"> 注册</a></li>
+                <li><a href="http://www.xunyingwang.com/signin">登录</a></li>
+                </ul>
+            </div>
+                </div>
+</nav>
+</header>
+<div class="container">
+    <div class="container-fluid" style="background:#FFF;padding-top:15px;">
+    <ol class="breadcrumb">
+        <li><a href="http://www.xunyingwang.com/">首页</a></li>
+        <li><a target="_blank" href="http://www.xunyingwang.com/movie/">电影</a></li>
+    <li><a target="_blank" href="http://www.xunyingwang.com/search?q=%E5%89%A7%E6%83%85">剧情</a></li>        <li class="active">春梦-高清迅雷下载</li>
+    </ol>
+<div class="row">
+    <div class="col-xs-9 movie-info padding-right-5" style="width:780px;">
+        <h1>春梦 ?? <span class="year">(2016)</span></h1>
+        <div class="row">
+            <div class="col-xs-4 padding-right-0">
+                <a class="movie-post" href="http://www.xunyingwang.com/movie/198049.html" style="display:block;position:relative;">
+                                <img class="img-thumbnail" alt="春梦" width="100%" src="http://ww2.sinaimg.cn/mw690/006xTuHMgw1f9cayzv1aqj30bn0go415.jpg">
+                <span class="qtag hdtag">高清</span>                </a>
+                <em>最后更新：2016-11-06</em>
+                <div style="height:28px;">
+<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a title="分享到QQ空间" href="#" class="bds_qzone" data-cmd="qzone"></a><a title="分享到新浪微博" href="#" class="bds_tsina" data-cmd="tsina"></a><a title="分享到腾讯微博" href="#" class="bds_tqq" data-cmd="tqq"></a><a title="分享到人人网" href="#" class="bds_renren" data-cmd="renren"></a><a title="分享到微信" href="#" class="bds_weixin" data-cmd="weixin"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</div>            </div> <!-- end col-xs-4 -->
+            <div class="col-xs-8">
+                <table class="table table-striped table-condensed table-bordered" style="margin-bottom:10px;font-size:12px;">
+<tbody>
+<tr>
+    <td class="span2"><span class="info-label">导演</span></td>
+    <td><a target="_blank" href="http://www.xunyingwang.com/search?q=%E5%BC%A0%E5%BE%8B">张律</a></td>
+</tr>
+<tr>
+    <td class="span2"><span class="info-label">编剧</span></td>
+    <td><a target="_blank" href="http://www.xunyingwang.com/search?q=%E5%BC%A0%E5%BE%8B">张律</a></td>
+</tr>
+<tr>
+    <td class="span2"><span class="info-label">主演</span></td>
+    <td id="casts" style="position:relative;"><a target="_blank" href="http://www.xunyingwang.com/search?q=%E6%A2%81%E7%9B%8A%E4%BF%8A">梁益俊</a> / <a target="_blank" href="http://www.xunyingwang.com/search?q=%E5%B0%B9%E9%92%9F%E5%BD%AC">尹钟彬</a> / <a target="_blank" href="http://www.xunyingwang.com/search?q=%E6%9C%B4%E5%BA%AD%E5%87%A1">朴庭凡</a> / <a target="_blank" href="http://www.xunyingwang.com/search?q=%E9%9F%A9%E8%89%BA%E7%A4%BC">韩艺礼</a> / <a target="_blank" href="http://www.xunyingwang.com/search?q=%E7%94%B3%E6%95%8F%E5%84%BF">申敏儿</a> / <a target="_blank" href="http://www.xunyingwang.com/search?q=%E6%9F%B3%E6%BC%94%E9%94%A1">柳演锡</a> / <span style="display:none;"><a target="_blank" href="http://www.xunyingwang.com/search?q=%E9%87%91%E4%B9%89%E5%9F%8E">金义城</a> / <a target="_blank" href="http://www.xunyingwang.com/search?q=%E9%87%91%E5%A4%AA%E5%8B%8B">金太勋</a> / <a target="_blank" href="http://www.xunyingwang.com/search?q=%E8%B5%B5%E8%BE%BE%E7%84%95">赵达焕</a></span> <a class="casts-swith"><i class="glyphicon glyphicon-chevron-down"></i>显示全部</a></td>
+</tr>
+<tr>
+    <td class="span2"><span class="info-label">类型</span></td>
+    <td><a target="_blank" href="http://www.xunyingwang.com/movie?tags=%E5%89%A7%E6%83%85">剧情</a></td>
+</tr>
+<tr>
+    <td class="span2"><span class="info-label">地区</span></td>
+    <td><a target="_blank" href="http://www.xunyingwang.com/movie?country=%E9%9F%A9%E5%9B%BD">韩国</a></td>
+</tr>
+<tr>
+    <td class="span2"><span class="info-label">语言</span></td>
+    <td>韩语</td>
+</tr>
+<tr>
+    <td class="span2"><span class="info-label">上映时间</span></td>
+    <td>2016-10-06(釜山电影节) / 2016-10-13(韩国)</td>
+</tr>
+<tr>
+    <td class="span2"><span class="info-label">片长</span></td>
+    <td>101分钟</td>
+</tr>
+<tr>
+    <td class="span2"><span class="info-label">又名</span></td>
+    <td>三人行 / ??? / A Quiet Dream</td>
+</tr>
+<tr>
+<td class="span2"><span class="info-label">评分</span></td>
+<td><a rel="nofollow" class="score" target="_blank" href="https://movie.douban.com/subject/26752337/">豆瓣 7.8</a> / <a rel="nofollow" class="imdb" target="_blank" href="http://www.imdb.com/title/tt6066538/">IMDB 7.1</a></td>
+</tr>
+</tbody>
+</table>                <div class="btn-group " role="group" aria-label="" style="margin-top:5px;">
+    <a id="down-btn" href="#down" class="btn btn-default btn-sm" role="button"><span class="glyphicon glyphicon-download-alt"></span> 下载</a>
+    <a id="plan_btn" href="javascript:;" onclick="plan(this,198049)" class="btn btn-default btn-sm" role="button"><span class="glyphicon glyphicon-time"></span> 想看</a>
+    <a id="watched_btn" href="javascript:;" onclick="watched(this,198049)" class="btn btn-default btn-sm" role="button"><span class="glyphicon glyphicon-check"></span> 看过</a>
+    <a id="like_btn" href="javascript:;" onclick="like(this,198049)" class="btn btn-default btn-sm" role="button"><span class="glyphicon glyphicon-heart"></span> 喜欢</a>
+</div>            </div>
+        </div>
+        <!-- summary start -->
+<div class="row" style="margin-top:5px;">
+<div class="col-xs-12"><h2>电影介绍</h2></div>
+<div class="col-xs-12 movie-introduce"><p>　　《春梦》最初定名“三人行”，讲述了三个恋爱方式完全不同的男人与一个女人之间发生的爱情故事。三位男主人公在片中将展现一种既相互竞争又相互慰藉的奇妙关系。</p></div></div>
+        <!-- summary end -->
+        <!-- movie tags -->
+<div class="row">
+<div class="col-xs-12"><h2>影片标签</h2></div>
+<div class="col-xs-12 tags">
+<a target="_blank" class="tag" href="http://www.xunyingwang.com/movie/?tag=%E9%9F%A9%E5%9B%BD">#韩国</a><a target="_blank" class="tag" href="http://www.xunyingwang.com/movie/?tag=%E5%BC%A0%E5%BE%8B">#张律</a><a target="_blank" class="tag" href="http://www.xunyingwang.com/movie/?tag=%E9%9F%A9%E5%9B%BD%E7%94%B5%E5%BD%B1">#韩国电影</a><a target="_blank" class="tag" href="http://www.xunyingwang.com/movie/?tag=2016">#2016</a><a target="_blank" class="tag" href="http://www.xunyingwang.com/movie/?tag=%E6%96%87%E8%89%BA">#文艺</a><a target="_blank" class="tag" href="http://www.xunyingwang.com/movie/?tag=%E9%87%9C%E5%B1%B1%E7%94%B5%E5%BD%B1%E8%8A%82">#釜山电影节</a><a target="_blank" class="tag" href="http://www.xunyingwang.com/movie/?tag=%E7%88%B1%E6%83%85">#爱情</a><a target="_blank" class="tag" href="http://www.xunyingwang.com/movie/?tag=%E6%A2%81%E7%9B%8A%E4%BF%8A">#梁益俊</a></div>
+</div>
+        <!-- movie tags end -->
+        <!-- movie picture start -->
+        <!-- movie picture end -->
+<div style="padding:0;margin:15px 0 0;width:760px;background:#EEE;max-height:90px;">
+    <script type="text/javascript" src="http://cpc.88rpg.net/js/c/19177_4362.js"></script></div>
+        <!-- recommened -->
+<div class="row">
+<div class="col-xs-12">
+<h2>精彩推荐</h2></div>
+<div style="padding:0 10px;">
+<div class="col-xs-2 movie-recommened">
+<a style="position:relative;display:block;" target="_blank" title="女人是男人的未来(2009)" href="http://www.xunyingwang.com/movie/5575.html">
+<img alt="女人是男人的未来" width="100%" src="http://ww4.sinaimg.cn/large/005yyi5Jjw1emph15ndrjj30730a0dge.jpg" />
+<div class="item-hover"></div>
+</a>
+<a target="_blank" title="女人是男人的未来(2009)" href="http://www.xunyingwang.com/movie/5575.html"><h5>女人是男人的未来</h5></a>
+</div><div class="col-xs-2 movie-recommened">
+<a style="position:relative;display:block;" target="_blank" title="江原道之力(1998)" href="http://www.xunyingwang.com/movie/5817.html">
+<img alt="江原道之力" width="100%" src="http://ww3.sinaimg.cn/large/005yyi5Jjw1emo8iq5qr9j30730a0dgd.jpg" />
+<div class="item-hover"></div>
+</a>
+<a target="_blank" title="江原道之力(1998)" href="http://www.xunyingwang.com/movie/5817.html"><h5>江原道之力</h5></a>
+</div><div class="col-xs-2 movie-recommened">
+<a style="position:relative;display:block;" target="_blank" title="在异国(2012)" href="http://www.xunyingwang.com/movie/5981.html">
+<img alt="在异国" width="100%" src="http://ww4.sinaimg.cn/large/005yyi5Jjw1emo8glhneyj30730a0dgg.jpg" />
+<div class="item-hover"></div>
+</a>
+<a target="_blank" title="在异国(2012)" href="http://www.xunyingwang.com/movie/5981.html"><h5>在异国</h5></a>
+</div><div class="col-xs-2 movie-recommened">
+<a style="position:relative;display:block;" target="_blank" title="不是任何人女儿的海媛(2013)" href="http://www.xunyingwang.com/movie/5982.html">
+<img alt="不是任何人女儿的海媛" width="100%" src="http://ww4.sinaimg.cn/large/005yyi5Jjw1emo8gzilhyj30730a074p.jpg" />
+<div class="item-hover"></div>
+</a>
+<a target="_blank" title="不是任何人女儿的海媛(2013)" href="http://www.xunyingwang.com/movie/5982.html"><h5>不是任何人女儿的海媛</h5></a>
+</div><div class="col-xs-2 movie-recommened">
+<a style="position:relative;display:block;" target="_blank" title="庆州(2014)" href="http://www.xunyingwang.com/movie/8144.html">
+<img alt="庆州" width="100%" src="http://ww3.sinaimg.cn/large/9b80dca9jw1emm0b18ubaj20730a0mxq.jpg" />
+<div class="item-hover"></div>
+</a>
+<a target="_blank" title="庆州(2014)" href="http://www.xunyingwang.com/movie/8144.html"><h5>庆州</h5></a>
+</div><div class="col-xs-2 movie-recommened">
+<a style="position:relative;display:block;" target="_blank" title="海边的女人(2006)" href="http://www.xunyingwang.com/movie/44697.html">
+<img alt="海边的女人" width="100%" src="http://img1.saaee.com/uploads/movie-poster/44697.jpg" />
+<div class="item-hover"></div>
+</a>
+<a target="_blank" title="海边的女人(2006)" href="http://www.xunyingwang.com/movie/44697.html"><h5>海边的女人</h5></a>
+</div></div>
+</div>
+        <!-- recommened end -->
+
+        <!-- resource -->
+        <div class="row">
+            <div class="col-xs-12"><h2>资源下载</h2></div>
+            <div class="col-xs-12" id="link-box">
+                <ul id="movieTabs" class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#normalDown" id="normalDown-tab" role="tab" data-toggle="tab" aria-controls="normalDown" aria-expanded="true">熟肉下载 <span class="badge">2</span></a></li>
+    <li role="presentation"><a aria-expanded="false" href="#sourceDown" role="tab" id="sourceDown-tab" data-toggle="tab" aria-controls="sourceDown">超清片源 <span class="badge">1</span></a></li>
+</ul>
+
+<div id="movieTabContent" class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="normalDown" aria-labelledby="normalDown-tab">
+        <div class="panel panel-default resource-list">
+        <div class="panel-heading"><strong id="down" name="down">春梦迅雷下载</strong><span class="pull-right" style="font-weight:bolder;color:red;">正在加载 . . .</span></div>
+        <div class="panel-body">
+        </div>
+
+<table class="table table-hover" style="margin-bottom:0;"><tbody><tr>
+    <td width="40" align="center"><span title="这是一个网盘链接。" class="magnet-icon">网盘</span></td>
+    <td class="text-break" style="padding:8px 0;"><div style="height:1.5em;line-height:1.5;overflow:hidden;"><a mid="198049" id="res_5172749" title="春梦 - 百度云，网盘资源，密码：uj2x" is_source="no" rel="nofollow" target="_blank" href="http://www.xunyingwang.com/movie/198049.html">春梦 - 百度云，网盘资源，密码：</a><strong style="color:red;">uj2x</strong> <a href="javascript:;" onclick="alert('若链接失效，请自行使用网盘的离线功能，不会的请看下方帮助。');"><span class="glyphicon glyphicon-alert"></span></a></div></td>
+</tr><tr>
+    <td width="40" align="center"><span title="这是一个磁力链接。" class="magnet-icon">磁力</span></td>
+    <td class="text-break" style="padding:8px 0;"><div style="height:1.5em;line-height:1.5;overflow:hidden;"><a mid="198049" id="res_5172765" title="[凤凰天使TsKs制作@TsKscn.com][春梦][HDTV-MKV(720P) 韩语中字][ALL].mkv" is_source="no" rel="nofollow" href="http://www.xunyingwang.com/movie/198049.html">[凤凰天使TsKs制作@TsKscn.com][春梦][HDTV-MKV(720P) 韩语中字][ALL].mkv</a></div></td>
+</tr></tbody></table>            <div class="panel-footer resource-help">
+            <strong>《春梦》-下载帮助：</strong><br />
+            1、想要在线观看，请保存到百度网盘中，没有网盘链接或者链接失效的，请搜索：百度云网盘离线下载教程。<br />
+            2、如需下载电影，请先安装迅雷（旋风），然后右键资源链接，选择迅雷（旋风）下载。<br/>
+            3、资源名称中含HD为高清，BD为蓝光 ，Mandarin是普通话，Cantonese是粤语，两者都有为双音轨。
+            </div>
+        </div><!-- end panel -->
+    </div> <!-- end normal -->
+    <div role="tabpanel" class="tab-pane" id="sourceDown" aria-labelledby="sourceDown-tab">
+    <div class="panel panel-default resource-list">
+        <div class="panel-heading"><strong>《春梦》 - 片源下载 - 高清片源下载：</strong></div>
+<table class="table table-hover" style="margin-bottom:0;"><tbody><tr>
+    <td width="40" align="center"><span title="这是一个磁力链接。" class="magnet-icon">磁力</span></td>
+    <td class="text-break" style="padding:8px 0;"><div style="height:1.5em;line-height:1.5;overflow:hidden;"><a mid="198049" id="res_5170787" title="A Quiet Dream.2016.720p.HDRip.H264-UnKnown.MKV" is_source="yes" rel="nofollow" href="http://www.xunyingwang.com/movie/198049.html">A Quiet Dream.2016.720p.HDRip.H264-UnKnown.MKV</a></div></td>
+</tr></tbody></table>            <div class="panel-footer resource-help">
+            <strong>《春梦》-片源下载帮助：</strong><br />
+            1、片源的码率比较高，所以体积相对较大。<br />
+            2、国外的片源一般是没有中文字幕的，所以请做好找字幕的准备。<br />
+            3、蓝光原盘拷贝，体积可能会达到几十个G，如果不是原盘爱好者，不建议下载。
+            </div>
+        </div><!-- end panel -->
+
+    </div>
+</div> <!-- end tab content -->
+
+
+<!-- 分享链接框 -->
+<div class="modal fade" id="shareModal" tabindex="-1" resid="" role="dialog" aria-labelledby="shareModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="shareModalLabel">分享在线观看链接：</h4>
+    </div>
+    <div class="modal-body">
+        <div class="alert alert-info">
+        如果你发现其他视频网站上能在线观看，欢迎你把链接分享给大家。
+        </div>
+        <form id="shareForm">
+            <div class="form-group">
+                <label for="movielink">播放链接：</label>
+                <textarea class="form-control" id="movielink" name="movielink" placeholder=""></textarea>
+            </div>
+            <input class="hidden" id="movietitle" name="movietitle" value="春梦" />
+            <input class="hidden" name="mid" value="198049" />
+        </form>
+    </div>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+        <button type="button" class="btn btn-primary" onclick="shareLink();">分享</button>
+    </div>
+</div>
+</div>
+</div>            </div>
+        </div>
+        <!-- end resource -->
+        <div class="row">
+            <div class="col-xs-12"><h2>影片评论</h2></div>
+            <div class="col-xs-12 comment">
+            <div class="row">
+<div class="col-xs-12">
+<div style="margin-top:10px;">
+<hr class="dline" />
+<div style="border:2px dashed #CCC;margin-bottom:25px;color:#777;border-radius:5px;height:50px;line-height:50px;font-size:14px;text-align:center;font-family:'宋体'">暂无评论</div></div>
+<ul id="pager"></ul>
+
+</div>
+
+<div class="col-xs-12">
+        <div class="alert-x alert-info reply-box"><strong>提示：</strong><a href="http://www.xunyingwang.com/signup">[注册]</a> / <a href="http://www.xunyingwang.com/signin">[登入]</a> 之后才能评论</div>
+    </div>
+
+</div>
+
+<script type="text/javascript">
+$(function() {
+    var options={"currentPage":1,"totalPages":0,"totalCount":0,"numberOfPages":10,"bootstrapMajorVersion":3,"size":"small","alignment":"right"};
+    options['itemContainerClass'] = function (type, page, current) {
+        return (page === current) ? "active" : "pointer-cursor";
+    }
+    options['pageUrl'] = function(type, page, current){
+        return "javascript:;";
+    }
+    options['onPageClicked'] = function(e,originalEvent,type,page){
+        originalEvent.preventDefault();
+        originalEvent.stopPropagation();
+        $.get('/comment/commentList/movie/198049/'+page,function(data,status){
+                $('.comment').html(data);
+            }
+        );
+    };
+    $('#pager').bootstrapPaginator(options);
+});
+</script>            </div>
+        </div>
+    </div><!-- end movie-info -->
+    <div class="col-xs-3 sidebar" style="padding-left:15px;width:220px;padding-right:5px;">
+        <div class="row">
+    <div class="col-xs-12">
+        <h3 style="margin:0;">浏览过的用户 · · · </h3>
+    </div>
+    <div class="viewer-list">
+            <div class="col-xs-3 viewer-list-avatar">
+    <a data-toggle="popover" data-user-id="330848" target="_blank" href="http://www.xunyingwang.com/u/330848">
+        <img src="http://ww2.sinaimg.cn/large/0069qWFHgw1f6qykr24nzj305k05kq2q.jpg">
+    </a>
+    
+    </div>    <div class="col-xs-3 viewer-list-avatar">
+    <a data-toggle="popover" data-user-id="316272" target="_blank" href="http://www.xunyingwang.com/u/316272">
+        <img src="/uploads/avatar/316272.png?t=1478659462">
+    </a>
+    
+    </div>    <div class="col-xs-3 viewer-list-avatar">
+    <a data-toggle="popover" data-user-id="329706" target="_blank" href="http://www.xunyingwang.com/u/329706">
+        <img src="http://ww2.sinaimg.cn/large/0069qWFHgw1f6qykr24nzj305k05kq2q.jpg">
+    </a>
+    
+    </div>    <div class="col-xs-3 viewer-list-avatar">
+    <a data-toggle="popover" data-user-id="326331" target="_blank" href="http://www.xunyingwang.com/u/326331">
+        <img src="http://ww2.sinaimg.cn/large/0069qWFHgw1f6qykr24nzj305k05kq2q.jpg">
+    </a>
+    
+    </div>    <div class="col-xs-3 viewer-list-avatar">
+    <a data-toggle="popover" data-user-id="318392" target="_blank" href="http://www.xunyingwang.com/u/318392">
+        <img src="/uploads/avatar/318392.png?t=1478961490">
+    </a>
+    
+    </div>    <div class="col-xs-3 viewer-list-avatar">
+    <a data-toggle="popover" data-user-id="328707" target="_blank" href="http://www.xunyingwang.com/u/328707">
+        <img src="http://ww2.sinaimg.cn/large/0069qWFHgw1f6qykr24nzj305k05kq2q.jpg">
+    </a>
+    
+    </div>    <div class="col-xs-3 viewer-list-avatar">
+    <a data-toggle="popover" data-user-id="34510" target="_blank" href="http://www.xunyingwang.com/u/34510">
+        <img src="http://ww2.sinaimg.cn/large/0069qWFHgw1f6qykr24nzj305k05kq2q.jpg">
+    </a>
+    
+    </div>    <div class="col-xs-3 viewer-list-avatar">
+    <a data-toggle="popover" data-user-id="327300" target="_blank" href="http://www.xunyingwang.com/u/327300">
+        <img src="http://ww2.sinaimg.cn/large/0069qWFHgw1f6qykr24nzj305k05kq2q.jpg">
+    </a>
+    
+    </div>    </div>
+    <div class="col-xs-12">
+        <span>1人想看 / 0人看过 / 1人喜欢</span>
+    </div>
+</div>        <h3>最近更新</h3>
+        <div class="list-group">
+    <a target="_blank" href="http://www.xunyingwang.com/tv/197670.html" class="list-group-item"><span class="square-item-red">1</span>神烦警探 第四季</a>    <a target="_blank" href="http://www.xunyingwang.com/movie/201154.html" class="list-group-item"><span class="square-item-red">2</span>老九门番外之恒河杀树</a>    <a target="_blank" href="http://www.xunyingwang.com/tv/201139.html" class="list-group-item"><span class="square-item-red">3</span>生死狙击 第一季</a>    <a target="_blank" href="http://www.xunyingwang.com/movie/186569.html" class="list-group-item"><span class="square-item-blue">4</span>比海更深</a>    <a target="_blank" href="http://www.xunyingwang.com/tv/199164.html" class="list-group-item"><span class="square-item-blue">5</span>咱们相爱吧</a>    <a target="_blank" href="http://www.xunyingwang.com/tv/199662.html" class="list-group-item"><span class="square-item-blue">6</span>锦绣未央</a>    <a target="_blank" href="http://www.xunyingwang.com/tv/192206.html" class="list-group-item"><span class="square-item-blue">7</span>别那么骄傲</a>    <a target="_blank" href="http://www.xunyingwang.com/movie/193899.html" class="list-group-item"><span class="square-item-blue">8</span>三枪隐情</a>    <a target="_blank" href="http://www.xunyingwang.com/tv/194812.html" class="list-group-item"><span class="square-item-blue">9</span>兰陵王妃</a>    <a target="_blank" href="http://www.xunyingwang.com/movie/193231.html" class="list-group-item"><span class="square-item-blue">10</span>东京不热</a></div>                <h3>本周精选</h3>
+        <div class="list-group">
+
+    <a title="比海更深-迅雷下载" target="_blank" href="http://www.xunyingwang.com/movie/186569.html" class="list-group-item"><span class="square-item-red">1</span>比海更深</a>
+
+    <a title="沉默的证人-迅雷下载" target="_blank" href="http://www.xunyingwang.com/movie/195516.html" class="list-group-item"><span class="square-item-red">2</span>沉默的证人</a>
+
+    <a title="不了神话 宫崎骏-迅雷下载" target="_blank" href="http://www.xunyingwang.com/movie/200598.html" class="list-group-item"><span class="square-item-red">3</span>不了神话 宫崎骏</a>
+
+    <a title="酒神小姐-迅雷下载" target="_blank" href="http://www.xunyingwang.com/movie/200179.html" class="list-group-item"><span class="square-item-blue">4</span>酒神小姐</a>
+
+    <a title="幸运钥匙-迅雷下载" target="_blank" href="http://www.xunyingwang.com/movie/200000.html" class="list-group-item"><span class="square-item-blue">5</span>幸运钥匙</a>
+
+    <a title="二重生活-迅雷下载" target="_blank" href="http://www.xunyingwang.com/movie/200489.html" class="list-group-item"><span class="square-item-blue">6</span>二重生活</a>
+
+    <a title="军火贩-迅雷下载" target="_blank" href="http://www.xunyingwang.com/movie/190091.html" class="list-group-item"><span class="square-item-blue">7</span>军火贩</a>
+
+    <a title="谍影重重5-迅雷下载" target="_blank" href="http://www.xunyingwang.com/movie/188527.html" class="list-group-item"><span class="square-item-blue">8</span>谍影重重5</a>
+
+    <a title="柜中野兽-迅雷下载" target="_blank" href="http://www.xunyingwang.com/movie/196218.html" class="list-group-item"><span class="square-item-blue">9</span>柜中野兽</a>
+
+    <a title="久保与二弦琴-迅雷下载" target="_blank" href="http://www.xunyingwang.com/movie/188586.html" class="list-group-item"><span class="square-item-blue">10</span>久保与二弦琴</a>
+</div>            </div>
+</div><!-- end first row -->
+        </div>
+
+</div><!-- end container -->
+
+<!-- 欢迎框 -->
+<div class="modal fade" id="welcomeModal" tabindex="-1" resid="" role="dialog" aria-labelledby="welcomeModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="welcomeModalLabel">尊敬的用户：</h4>
+    </div>
+    <div class="modal-body">
+        <p>欢迎访问迅影网</p>
+        <p>您可以在迅影网 <font style="color:red;font-weight:bolder;">免费下载</font> 和 <font style="color:red;font-weight:bolder;">在线观看</font> 最新电影哦。</p>
+        <p>把迅影网加入到收藏夹（快捷键：ctrl+D），免得下次找不到哦。<a href="/tools/savewebsite">保存到桌面</a></p>
+        <p>不推荐使用低版本的IE浏览器访问，建议你装个谷歌、火狐，或360、百度等浏览器。</p>
+        <p></p>
+        <em>更多精彩内容等你发现。<br/>报告错误，请发邮件至：service@xunyingwang.com</em>
+    </div>
+    <div class="modal-footer">
+        <label>不再弹出 <input type="checkbox" onclick="SetCookie('welcomeModal','yes');"></label>
+        <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+    </div>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function(){
+    var issignin = false;
+    var shown = GetCookie('welcomeModal');
+        });
+</script>
+
+<footer class="footer">
+    <div class="container" style="padding:0;">
+    <p>免责声明：本网站所有内容都是靠程序在互联网上自动搜集而来，仅供测试和学习交流。<br/>目前正在逐步删除和规避程序自动搜索采集到的不提供分享的版权影视。</p>
+    <p>若侵犯了您的权益，请发邮件通知站长，邮箱：service@xunyingwang.com</p>
+        <em>? <a href="http://www.xunyingwang.com/">迅影网</a> · VERSION: 1.4.1 · 36.1ms</em>
+    </div>
+</footer>
+
+<script type="text/javascript" src="/static/plugins/bootstrap-paginator/src/bootstrap-paginator.js"></script>
+<script type="text/javascript">
+$(function() {
+    if(navigator.userAgent.indexOf('bot')>-1){
+        return;
+    }
+    $('#link-box').load('/videos/resList/'+mid);
+});
+</script>
+
+<script type="text/javascript" src="/static/js/slimbox2.js"></script>
+<script type="text/javascript" src="http://rwq.youle55.com/r/er_19177_7827.js"></script>
+<script type="text/javascript" src="http://rwq.youle55.com/r/ec_19177_7828.js"></script>
+
+<script>
+(function(){
+   var src = document.location.protocol +'//js.passport.qihucdn.com/11.0.1.js?1238b0197bd77ba3fe82b4cf76a786ce';
+   document.write('<script src="' + src + '" id="sozz"><\/script>');
+})();
+</script>
+
+<script>
+(function(){
+    var bp = document.createElement('script');
+    bp.src = '//push.zhanzhang.baidu.com/push.js';
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?37a8b4d38c648df85525e192e4d017fa";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</body>
+</html>

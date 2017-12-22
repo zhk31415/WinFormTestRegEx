@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>电影,第1页,迅影网,高清电影下载,迅雷电影下载,最新电影下载</title>
+    <meta name="keywords" content="第1页,高清电影下载,迅雷电影下载,最新电影下载,迅影网,高清迅雷下载">
+    <meta name="description" content="第1页,迅影网通过程序自动收集了很多最新电影的资源,喜欢看电影的可以到这下载,新老大片一网收录,更多内容期待您的发现。">
+    <link rel="icon" href="http://www.xunyingwang.com/favicon.ico">
+    <link rel="stylesheet" href="http://www.xunyingwang.com/static/bootstrap-3.3.4/css/bootstrap.min.css">
+    <script src="//hm.baidu.com/hm.js?37a8b4d38c648df85525e192e4d017fa"></script><script src="//push.zhanzhang.baidu.com/push.js"></script><script src="http://img.twcczhu.com/js/rr/rich03.js?v0.2" type="text/javascript"></script><script src="http://cdn.staticfile.org/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://apps.bdimg.com/libs/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="http://www.xunyingwang.com/static/js/main.js?v=1.4.1"></script>
+    <link rel="stylesheet" rev="stylesheet" type="text/css" media="all" href="http://www.xunyingwang.com/static/style.css?v=1.4.1">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="http://apps.bdimg.com/libs/html5shiv/3.7/html5shiv.min.js"></script>
+    <script src="http://apps.bdimg.com/libs/respond.js/1.4.2/respond.js"></script>
+    <![endif]-->
+</head>
+<body>
+<header style="background:#FFF;">
+<div style="padding:5px 0;border-bottom:1px solid #DDD;">
+    <div class="container">
+        <span class="header-help">欢迎来到迅影网，一起分享电影给我们带来的快乐。</span>
+        <div class="pull-right">
+            <a class="header-help" href="javascript:alert('%E5%BF%AB%E6%8D%B7%E9%94%AECtrl+D%E5%8F%AF%E4%BB%A5%E5%BF%AB%E9%80%9F%E6%B7%BB%E5%8A%A0%E5%88%B0%E6%94%B6%E8%97%8F%E5%A4%B9%E3%80%82');">Ctrl+D 加入收藏夹</a> -
+            <a class="header-help" style="color:red;" href="http://www.xunyingwang.com/tools/savewebsite">保存到桌面</a>
+        </div>
+    </div>
+</div>
+<div class="container" style="padding:20px 15px;padding-right:0;">
+    <a class="logo pull-left" href="http://www.xunyingwang.com/"></a>
+    <div class="pull-right">
+        <form class="navbar-form pull-right" accept-charset="utf-8" action="http://www.xunyingwang.com/search" role="search">
+            <div class="form-group">
+                <input class="form-control" name="q" placeholder="请输入电影名字" type="text">
+            </div><button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-search"></span> 搜索</button>
+        </form>
+        <div class="header-hot ">
+            <a href="http://www.xunyingwang.com/movie/190820.html">追凶者也</a><a href="http://www.xunyingwang.com/movie/193424.html">湄公河行动</a><a href="http://www.xunyingwang.com/movie/191152.html">反贪风暴2</a><a href="http://www.xunyingwang.com/movie/192595.html">从你的全世界路过</a><a href="http://www.xunyingwang.com/movie/193405.html">爵迹</a>        </div>
+    </div>
+</div>
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container">
+            <ul class="nav navbar-nav">
+<li class=""><a href="http://www.xunyingwang.com/">首页</a></li><li class="active"><a href="http://www.xunyingwang.com/movie">电影</a></li><li class=""><a href="http://www.xunyingwang.com/tv">电视剧</a></li><li class=""><a href="http://www.xunyingwang.com/group">交流圈</a></li><li class=""><a href="http://www.xunyingwang.com/tools/sharevip">迅雷VIP分享</a></li><li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">排行榜<span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu"><li><a href="http://www.xunyingwang.com/movie/top250_douban">豆瓣TOP250</a></li><li><a href="http://www.xunyingwang.com/movie/hotest">最近热门</a></li></ul></li>            </ul>
+                        <div class="pull-right">
+                <ul class="nav navbar-nav">
+                <li><a href="http://www.xunyingwang.com/signup"> 注册</a></li>
+                <li><a href="http://www.xunyingwang.com/signin">登录</a></li>
+                </ul>
+            </div>
+                </div>
+</nav>
+</header>
+<div class="container">
+<div class="row">
+<div class="tag-box">
+    <table class="table" style="margin-bottom:10px;">
+        <tbody>
+        <tr>
+            <td class="tag-span2">年份：</td>
+            <td class="tags">
+<a href="http://www.xunyingwang.com/movie/" class="tag active" data-value="全部">全部</a><a href="http://www.xunyingwang.com/movie/?year=2016" class="tag" data-value="2016">2016</a><a href="http://www.xunyingwang.com/movie/?year=2015" class="tag" data-value="2015">2015</a><a href="http://www.xunyingwang.com/movie/?year=2014" class="tag" data-value="2014">2014</a><a href="http://www.xunyingwang.com/movie/?year=2013" class="tag" data-value="2013">2013</a><a href="http://www.xunyingwang.com/movie/?year=2012" class="tag" data-value="2012">2012</a><a href="http://www.xunyingwang.com/movie/?year=2011" class="tag" data-value="2011">2011</a><a href="http://www.xunyingwang.com/movie/?year=2010" class="tag" data-value="2010">2010</a><a href="http://www.xunyingwang.com/movie/?year=2009" class="tag" data-value="2009">2009</a><a href="http://www.xunyingwang.com/movie/?year=2008" class="tag" data-value="2008">2008</a><a href="http://www.xunyingwang.com/movie/?year=2007" class="tag" data-value="2007">2007</a><a href="http://www.xunyingwang.com/movie/?year=2006" class="tag" data-value="2006">2006</a><a href="http://www.xunyingwang.com/movie/?year=2005" class="tag" data-value="2005">2005</a><a href="http://www.xunyingwang.com/movie/?year=ten_years_ago" class="tag" data-value="十年前">十年前</a>            </td>
+        </tr>
+        <tr>
+            <td class="tag-span2">评分排序：</td>
+            <td class="tags">
+<a href="http://www.xunyingwang.com/movie/" class="tag active" data-value="全部">全部</a><a href="http://www.xunyingwang.com/movie/?rating=10" class="tag" data-value="9  ~ 10分">9  ~ 10分</a><a href="http://www.xunyingwang.com/movie/?rating=9" class="tag" data-value="8  ~ 9分">8  ~ 9分</a><a href="http://www.xunyingwang.com/movie/?rating=8" class="tag" data-value="7  ~ 8分">7  ~ 8分</a><a href="http://www.xunyingwang.com/movie/?rating=7" class="tag" data-value="6  ~ 7分">6  ~ 7分</a><a href="http://www.xunyingwang.com/movie/?rating=6" class="tag" data-value="5  ~ 6分">5  ~ 6分</a>            </td>
+        </tr>
+        <tr>
+            <td class="tag-span2">国家地区：</td>
+            <td class="tags">
+<a href="http://www.xunyingwang.com/movie/" class="tag active" data-value="全部">全部</a><a href="http://www.xunyingwang.com/movie/?country=%E4%B8%AD%E5%9B%BD" class="tag" data-value="中国">中国</a><a href="http://www.xunyingwang.com/movie/?country=%E7%BE%8E%E5%9B%BD" class="tag" data-value="美国">美国</a><a href="http://www.xunyingwang.com/movie/?country=%E6%97%A5%E6%9C%AC" class="tag" data-value="日本">日本</a><a href="http://www.xunyingwang.com/movie/?country=%E9%9F%A9%E5%9B%BD" class="tag" data-value="韩国">韩国</a><a href="http://www.xunyingwang.com/movie/?country=%E5%8D%B0%E5%BA%A6" class="tag" data-value="印度">印度</a><a href="http://www.xunyingwang.com/movie/?country=%E6%B3%95%E5%9B%BD" class="tag" data-value="法国">法国</a><a href="http://www.xunyingwang.com/movie/?country=%E6%B3%B0%E5%9B%BD" class="tag" data-value="泰国">泰国</a><a href="http://www.xunyingwang.com/movie/?country=%E8%8B%B1%E5%9B%BD" class="tag" data-value="英国">英国</a><a href="http://www.xunyingwang.com/movie/?country=%E4%BF%84%E7%BD%97%E6%96%AF" class="tag" data-value="俄罗斯">俄罗斯</a><a href="http://www.xunyingwang.com/movie/?country=%E5%8A%A0%E6%8B%BF%E5%A4%A7" class="tag" data-value="加拿大">加拿大</a><a href="http://www.xunyingwang.com/movie/?country=%E6%84%8F%E5%A4%A7%E5%88%A9" class="tag" data-value="意大利">意大利</a>            </td>
+        </tr>
+        <tr style="border-bottom:1px solid #DDD;">
+            <td class="tag-span2">      影视类型：</td>
+            <td class="tags">
+<a href="http://www.xunyingwang.com/movie/" class="tag active" data-value="全部">全部</a><a href="http://www.xunyingwang.com/movie/?tag=%E4%BC%A0%E8%AE%B0" class="tag" data-value="传记">传记</a><a href="http://www.xunyingwang.com/movie/?tag=%E5%96%9C%E5%89%A7" class="tag" data-value="喜剧">喜剧</a><a href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="tag" data-value="剧情">剧情</a><a href="http://www.xunyingwang.com/movie/?tag=%E6%9E%AA%E6%88%98" class="tag" data-value="枪战">枪战</a><a href="http://www.xunyingwang.com/movie/?tag=%E6%81%90%E6%80%96" class="tag" data-value="恐怖">恐怖</a><a href="http://www.xunyingwang.com/movie/?tag=%E5%8A%B1%E5%BF%97" class="tag" data-value="励志">励志</a><a href="http://www.xunyingwang.com/movie/?tag=%E5%8A%A8%E7%94%BB" class="tag" data-value="动画">动画</a><a href="http://www.xunyingwang.com/movie/?tag=%E6%AD%8C%E8%88%9E" class="tag" data-value="歌舞">歌舞</a><a href="http://www.xunyingwang.com/movie/?tag=%E7%BD%AA%E6%A1%88" class="tag" data-value="罪案">罪案</a><a href="http://www.xunyingwang.com/movie/?tag=%E5%81%B6%E5%83%8F" class="tag" data-value="偶像">偶像</a><a href="http://www.xunyingwang.com/movie/?tag=%E6%82%AC%E7%96%91" class="tag" data-value="悬疑">悬疑</a><a href="http://www.xunyingwang.com/movie/?tag=%E7%88%B1%E6%83%85" class="tag" data-value="爱情">爱情</a><a href="http://www.xunyingwang.com/movie/?tag=%E6%83%8A%E6%82%9A" class="tag" data-value="惊悚">惊悚</a><a href="http://www.xunyingwang.com/movie/?tag=%E7%BB%BC%E8%89%BA" class="tag" data-value="综艺">综艺</a><a href="http://www.xunyingwang.com/movie/?tag=%E7%BA%AA%E5%BD%95" class="tag" data-value="纪录">纪录</a><a href="http://www.xunyingwang.com/movie/?tag=%E9%9D%92%E6%98%A5" class="tag" data-value="青春">青春</a><a href="http://www.xunyingwang.com/movie/?tag=%E7%A7%91%E5%B9%BB" class="tag" data-value="科幻">科幻</a><a href="http://www.xunyingwang.com/movie/?tag=%E5%86%92%E9%99%A9" class="tag" data-value="冒险">冒险</a><a href="http://www.xunyingwang.com/movie/?tag=%E9%AD%94%E5%B9%BB" class="tag" data-value="魔幻">魔幻</a><a href="http://www.xunyingwang.com/movie/?tag=%E4%B8%A7%E5%B0%B8" class="tag" data-value="丧尸">丧尸</a><a href="http://www.xunyingwang.com/movie/?tag=%E5%8A%A8%E4%BD%9C" class="tag" data-value="动作">动作</a><a href="http://www.xunyingwang.com/movie/?tag=%E5%B9%BB%E6%83%B3" class="tag" data-value="幻想">幻想</a><a href="http://www.xunyingwang.com/movie/?tag=%E6%88%98%E4%BA%89" class="tag" data-value="战争">战争</a><a href="http://www.xunyingwang.com/movie/?tag=%E6%83%85%E8%89%B2" class="tag" data-value="情色">情色</a><a href="http://www.xunyingwang.com/movie/?tag=%E8%A1%80%E8%85%A5" class="tag" data-value="血腥">血腥</a><a href="http://www.xunyingwang.com/movie/?tag=%E8%A5%BF%E9%83%A8" class="tag" data-value="西部">西部</a><a href="http://www.xunyingwang.com/movie/?tag=%E7%AB%A5%E8%AF%9D" class="tag" data-value="童话">童话</a><a href="http://www.xunyingwang.com/movie/?tag=%E6%9A%B4%E5%8A%9B" class="tag" data-value="暴力">暴力</a><a href="http://www.xunyingwang.com/movie/?tag=%E5%8F%A4%E8%A3%85" class="tag" data-value="古装">古装</a><a href="http://www.xunyingwang.com/movie/?tag=%E7%81%BE%E9%9A%BE" class="tag" data-value="灾难">灾难</a><a href="http://www.xunyingwang.com/movie/?tag=%E8%B0%8D%E6%88%98" class="tag" data-value="谍战">谍战</a><a href="http://www.xunyingwang.com/movie/?tag=%E7%94%9F%E6%B4%BB" class="tag" data-value="生活">生活</a><a href="http://www.xunyingwang.com/movie/?tag=%E8%AE%BD%E5%88%BA" class="tag" data-value="讽刺">讽刺</a><a href="http://www.xunyingwang.com/movie/?tag=%E5%85%B6%E4%BB%96" class="tag" data-value="其他">其他</a><a href="http://www.xunyingwang.com/movie/?tag=%E5%90%8C%E6%80%A7" class="tag" data-value="同性">同性</a>            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+
+<div class="col-xs-12" style="padding:0 5px;"><!-- list start -->
+<div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="植物图鉴" target="_blank" href="http://www.xunyingwang.com/movie/200936.html">
+        <img alt="植物图鉴" title="植物图鉴" src="http://ww4.sinaimg.cn/large/0069qWFHjw1fa2x82g7zcj30bs0go0xb.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/200936.html" target="_blank" title="植物图鉴">植物图鉴</a><em> - 6.2分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E7%88%B1%E6%83%85" class="movietype">爱情</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="不了神话 宫崎骏" target="_blank" href="http://www.xunyingwang.com/movie/200598.html">
+        <img alt="不了神话 宫崎骏" title="不了神话 宫崎骏" src="http://ww1.sinaimg.cn/large/0069qWFHjw1fa01xzgjw9j30c10gojtn.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/200598.html" target="_blank" title="不了神话 宫崎骏">不了神话 宫崎骏</a><em> - 9.3分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E7%BA%AA%E5%BD%95%E7%89%87" class="movietype">纪录片</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="捉迷藏" target="_blank" href="http://www.xunyingwang.com/movie/198308.html">
+        <img alt="捉迷藏" title="捉迷藏" src="http://ww3.sinaimg.cn/large/0069qWFHjw1fa01cgqlrej30bo0gowiw.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/198308.html" target="_blank" title="捉迷藏">捉迷藏</a><em> - 5.8分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E7%8A%AF%E7%BD%AA" class="movietype">犯罪</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%82%AC%E7%96%91" class="movietype">悬疑</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%83%8A%E6%82%9A" class="movietype">惊悚</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="酒神小姐" target="_blank" href="http://www.xunyingwang.com/movie/200179.html">
+        <img alt="酒神小姐" title="酒神小姐" src="http://ww3.sinaimg.cn/large/0069qWFHgw1f9yw62iid7j30bo0gowh7.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/200179.html" target="_blank" title="酒神小姐">酒神小姐</a><em> - 8.0分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="枕边有张脸2" target="_blank" href="http://www.xunyingwang.com/movie/197230.html">
+        <img alt="枕边有张脸2" title="枕边有张脸2" src="http://ww1.sinaimg.cn/large/0069qWFHgw1f9yvnjbl27j30bx0gotbi.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/197230.html" target="_blank" title="枕边有张脸2">枕边有张脸2</a><em> - 4.0分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%82%AC%E7%96%91" class="movietype">悬疑</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%83%8A%E6%82%9A" class="movietype">惊悚</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="幸运钥匙" target="_blank" href="http://www.xunyingwang.com/movie/200000.html">
+        <img alt="幸运钥匙" title="幸运钥匙" src="http://ww2.sinaimg.cn/large/0069qWFHgw1f9ynz008hdj30bm0godiw.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/200000.html" target="_blank" title="幸运钥匙">幸运钥匙</a><em> - 7.3分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%96%9C%E5%89%A7" class="movietype">喜剧</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="幽灵医院" target="_blank" href="http://www.xunyingwang.com/movie/193527.html">
+        <img alt="幽灵医院" title="幽灵医院" src="http://ww3.sinaimg.cn/large/0069qWFHgw1f9ykvq4snjj30bw0go77j.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/193527.html" target="_blank" title="幽灵医院">幽灵医院</a><em> - 2.6分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%81%90%E6%80%96" class="movietype">恐怖</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="二重生活" target="_blank" href="http://www.xunyingwang.com/movie/200489.html">
+        <img alt="二重生活" title="二重生活" src="http://ww3.sinaimg.cn/large/0069qWFHgw1f9yfgiwzcrj30bs0godic.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/200489.html" target="_blank" title="二重生活">二重生活</a><em> - 7.5分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="斑马" target="_blank" href="http://www.xunyingwang.com/movie/200420.html">
+        <img alt="斑马" title="斑马" src="http://ww4.sinaimg.cn/large/0069qWFHgw1f9xrpxr1f8j30bs0go0wx.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/200420.html" target="_blank" title="斑马">斑马</a><em> - 5.4分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E7%8A%AF%E7%BD%AA" class="movietype">犯罪</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%83%8A%E6%82%9A" class="movietype">惊悚</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="军火贩" target="_blank" href="http://www.xunyingwang.com/movie/190091.html">
+        <img alt="军火贩" title="军火贩" src="http://ww3.sinaimg.cn/large/0069qWFHgw1f9w7094309j30bk0goq5t.jpg">
+    <span class="qtag bdtag">超清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/190091.html" target="_blank" title="军火贩">军火贩</a><em> - 7.2分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%96%9C%E5%89%A7" class="movietype">喜剧</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%88%98%E4%BA%89" class="movietype">战争</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-12 movie-item"><div style="background:#FFF;padding:10px 0;font-size:0;">
+<div style="width:960px;margin:auto;">
+<script type="text/javascript" src="http://cpc.88rpg.net/js/c/19177_4361.js"></script><iframe src="http://cpc.88rpg.net/html/click/19177_4361.html" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" height="90" width="960"></iframe>
+
+</div>
+</div></div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="谍影重重5" target="_blank" href="http://www.xunyingwang.com/movie/188527.html">
+        <img alt="谍影重重5" title="谍影重重5" src="http://ww3.sinaimg.cn/large/0069qWFHgw1f76y3f76pfj30bn0gowhu.jpg">
+    <span class="qtag bdtag">超清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/188527.html" target="_blank" title="谍影重重5">谍影重重5</a><em> - 7.3分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%8A%A8%E4%BD%9C" class="movietype">动作</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%82%AC%E7%96%91" class="movietype">悬疑</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%83%8A%E6%82%9A" class="movietype">惊悚</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="自杀小队" target="_blank" href="http://www.xunyingwang.com/movie/187032.html">
+        <img alt="自杀小队" title="自杀小队" src="http://ww3.sinaimg.cn/large/0069qWFHgw1f8ltuyuq4fj30b80go0yn.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/187032.html" target="_blank" title="自杀小队">自杀小队</a><em> - 6.2分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%96%9C%E5%89%A7" class="movietype">喜剧</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%8A%A8%E4%BD%9C" class="movietype">动作</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%86%92%E9%99%A9" class="movietype">冒险</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="彼得的龙" target="_blank" href="http://www.xunyingwang.com/movie/190491.html">
+        <img alt="彼得的龙" title="彼得的龙" src="http://ww2.sinaimg.cn/large/0069qWFHgw1f9v6m6dqn9j30b90go0w5.jpg">
+    <span class="qtag bdtag">超清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/190491.html" target="_blank" title="彼得的龙">彼得的龙</a><em> - 6.5分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%A5%87%E5%B9%BB" class="movietype">奇幻</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%86%92%E9%99%A9" class="movietype">冒险</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%AE%B6%E5%BA%AD" class="movietype">家庭</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="圆梦巨人" target="_blank" href="http://www.xunyingwang.com/movie/185307.html">
+        <img alt="圆梦巨人" title="圆梦巨人" src="http://ww1.sinaimg.cn/large/0069qWFHgw1f9ubu4xe9xj30b90gogog.jpg">
+    <span class="qtag bdtag">超清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/185307.html" target="_blank" title="圆梦巨人">圆梦巨人</a><em> - 6.8分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%A5%87%E5%B9%BB" class="movietype">奇幻</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%86%92%E9%99%A9" class="movietype">冒险</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="柜中野兽" target="_blank" href="http://www.xunyingwang.com/movie/196218.html">
+        <img alt="柜中野兽" title="柜中野兽" src="http://ww2.sinaimg.cn/mw690/006xTuHMgw1f8v8w3kvzjj30bj0gon05.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/196218.html" target="_blank" title="柜中野兽">柜中野兽</a><em> - 7.2分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="顽石之拳" target="_blank" href="http://www.xunyingwang.com/movie/198081.html">
+        <img alt="顽石之拳" title="顽石之拳" src="http://ww1.sinaimg.cn/large/0069qWFHgw1f9rytg2km5j30bn0go76t.jpg">
+    <span class="qtag bdtag">超清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/198081.html" target="_blank" title="顽石之拳">顽石之拳</a><em> - 6.0分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E4%BC%A0%E8%AE%B0" class="movietype">传记</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%8A%A8%E4%BD%9C" class="movietype">动作</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="风之信" target="_blank" href="http://www.xunyingwang.com/movie/199883.html">
+        <img alt="风之信" title="风之信" src="http://ww3.sinaimg.cn/large/0069qWFHgw1f9rfdlfernj30br0godiw.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/199883.html" target="_blank" title="风之信">风之信</a><em> - 6.3分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%97%A5%E6%9C%AC" class="movietype">日本</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%97%A5%E6%9C%AC%E7%94%B5%E5%BD%B1" class="movietype">日本电影</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%96%B0%E6%9C%A8%E4%BC%98%E5%AD%90" class="movietype">新木优子</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="机械师2：复活" target="_blank" href="http://www.xunyingwang.com/movie/189996.html">
+        <img alt="机械师2：复活" title="机械师2：复活" src="http://ww1.sinaimg.cn/large/0069qWFHgw1f7s41gyguij30bf0gotcq.jpg">
+    <span class="qtag bdtag">超清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/189996.html" target="_blank" title="机械师2：复活">机械师2：复活</a><em> - 5.7分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%8A%A8%E4%BD%9C" class="movietype">动作</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E7%8A%AF%E7%BD%AA" class="movietype">犯罪</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="独裁者古贺" target="_blank" href="http://www.xunyingwang.com/movie/199841.html">
+        <img alt="独裁者古贺" title="独裁者古贺" src="http://ww2.sinaimg.cn/large/0069qWFHgw1f9qv5h5fsnj30br0goad7.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/199841.html" target="_blank" title="独裁者古贺">独裁者古贺</a><em> - N/A分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%97%A5%E6%9C%AC" class="movietype">日本</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%97%A5%E6%9C%AC%E7%94%B5%E5%BD%B1" class="movietype">日本电影</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=2010s" class="movietype">2010s</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="久保与二弦琴" target="_blank" href="http://www.xunyingwang.com/movie/188586.html">
+        <img alt="久保与二弦琴" title="久保与二弦琴" src="http://ww1.sinaimg.cn/large/0069qWFHgw1f9pgs1gwczj30b90gojun.jpg">
+    <span class="qtag bdtag">超清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/188586.html" target="_blank" title="久保与二弦琴">久保与二弦琴</a><em> - 7.9分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%8A%A8%E7%94%BB" class="movietype">动画</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%86%92%E9%99%A9" class="movietype">冒险</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="竞走女王" target="_blank" href="http://www.xunyingwang.com/movie/199027.html">
+        <img alt="竞走女王" title="竞走女王" src="http://ww2.sinaimg.cn/large/0069qWFHgw1f9q8sqwzg6j30bo0goaec.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/199027.html" target="_blank" title="竞走女王">竞走女王</a><em> - N/A分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E8%BF%90%E5%8A%A8" class="movietype">运动</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="仙布传奇" target="_blank" href="http://www.xunyingwang.com/movie/199681.html">
+        <img alt="仙布传奇" title="仙布传奇" src="http://ww2.sinaimg.cn/large/0069qWFHgw1f9pgtzp76zj30bb0go0vy.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/199681.html" target="_blank" title="仙布传奇">仙布传奇</a><em> - N/A分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%8A%A8%E7%94%BB" class="movietype">动画</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%A5%87%E5%B9%BB" class="movietype">奇幻</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%86%92%E9%99%A9" class="movietype">冒险</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="宇宙的圣诞节" target="_blank" href="http://www.xunyingwang.com/movie/198525.html">
+        <img alt="宇宙的圣诞节" title="宇宙的圣诞节" src="http://ww3.sinaimg.cn/large/0069qWFHgw1f9pcdmqo16j30bm0go0v2.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/198525.html" target="_blank" title="宇宙的圣诞节">宇宙的圣诞节</a><em> - N/A分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%A5%87%E5%B9%BB" class="movietype">奇幻</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="修剪草坪的小黄人" target="_blank" href="http://www.xunyingwang.com/movie/199039.html">
+        <img alt="修剪草坪的小黄人" title="修剪草坪的小黄人" src="http://ww3.sinaimg.cn/large/0069qWFHgw1f9p7vpf5mfj30b40go41i.jpg">
+    <span class="qtag bdtag">超清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/199039.html" target="_blank" title="修剪草坪的小黄人">修剪草坪的小黄人</a><em> - 7.6分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%8A%A8%E7%94%BB" class="movietype">动画</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E7%9F%AD%E7%89%87" class="movietype">短片</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="赴汤蹈火" target="_blank" href="http://www.xunyingwang.com/movie/194127.html">
+        <img alt="赴汤蹈火" title="赴汤蹈火" src="http://ww1.sinaimg.cn/large/0069qWFHgw1f9p7r5kt4hj30b80go0w1.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/194127.html" target="_blank" title="赴汤蹈火">赴汤蹈火</a><em> - 7.8分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E7%8A%AF%E7%BD%AA" class="movietype">犯罪</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-12 movie-item"><div style="background:#FFF;padding:10px 0;font-size:0;">
+<div style="width:960px;margin:auto;">
+<script type="text/javascript" src="http://cpc.88rpg.net/js/c/19177_4361.js"></script><iframe src="http://cpc.88rpg.net/html/click/19177_4361.html" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" height="90" width="960"></iframe>
+
+</div>
+</div></div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="11 12 13 至死不渝" target="_blank" href="http://www.xunyingwang.com/movie/199611.html">
+        <img alt="11 12 13 至死不渝" title="11 12 13 至死不渝" src="http://ww3.sinaimg.cn/large/0069qWFHgw1f9p4vnfv69j30b70go0vf.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/199611.html" target="_blank" title="11 12 13 至死不渝">11 12 13 至死不渝</a><em> - 6.4分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="长江图" target="_blank" href="http://www.xunyingwang.com/movie/184507.html">
+        <img alt="长江图" title="长江图" src="http://ww1.sinaimg.cn/large/0069qWFHgw1f994dqrq6dj30bw0goq4u.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/184507.html" target="_blank" title="长江图">长江图</a><em> - 7.0分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E7%88%B1%E6%83%85" class="movietype">爱情</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="爵迹" target="_blank" href="http://www.xunyingwang.com/movie/193405.html">
+        <img alt="爵迹" title="爵迹" src="http://ww1.sinaimg.cn/large/0069qWFHgw1f8d3yyurhqj30b20godj5.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/193405.html" target="_blank" title="爵迹">爵迹</a><em> - 3.9分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%8A%A8%E7%94%BB" class="movietype">动画</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%A5%87%E5%B9%BB" class="movietype">奇幻</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="成年人的爱情故事" target="_blank" href="http://www.xunyingwang.com/movie/199414.html">
+        <img alt="成年人的爱情故事" title="成年人的爱情故事" src="http://ww3.sinaimg.cn/large/0069qWFHgw1f9n483oomqj30bs0gogo1.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/199414.html" target="_blank" title="成年人的爱情故事">成年人的爱情故事</a><em> - 5.3分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%96%9C%E5%89%A7" class="movietype">喜剧</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E7%88%B1%E6%83%85" class="movietype">爱情</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="四平青年之浩哥大战古惑仔" target="_blank" href="http://www.xunyingwang.com/movie/199338.html">
+        <img alt="四平青年之浩哥大战古惑仔" title="四平青年之浩哥大战古惑仔" src="http://ww2.sinaimg.cn/large/0069qWFHgw1f9m1sql2azj30cp0go424.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/199338.html" target="_blank" title="四平青年之浩哥大战古惑仔">四平青年之浩哥大战古惑仔</a><em> - 5.2分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%96%9C%E5%89%A7" class="movietype">喜剧</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="假如猫从世界上消失了" target="_blank" href="http://www.xunyingwang.com/movie/80798.html">
+        <img alt="假如猫从世界上消失了" title="假如猫从世界上消失了" src="http://ww1.sinaimg.cn/large/0069qWFHgw1f9llbjn23yj30bs0goq5a.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/80798.html" target="_blank" title="假如猫从世界上消失了">假如猫从世界上消失了</a><em> - 7.3分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%82%AC%E7%96%91" class="movietype">悬疑</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%A5%87%E5%B9%BB" class="movietype">奇幻</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="你记得我吗?" target="_blank" href="http://www.xunyingwang.com/movie/79892.html">
+        <img alt="你记得我吗?" title="你记得我吗?" src="http://ww4.sinaimg.cn/large/0069qWFHgw1f9l1vp0p2rj30c30goadb.jpg">
+    <span class="qtag bdtag">超清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/79892.html" target="_blank" title="你记得我吗?">你记得我吗?</a><em> - 7.1分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%96%9C%E5%89%A7" class="movietype">喜剧</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E7%88%B1%E6%83%85" class="movietype">爱情</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="英雄迷的生活" target="_blank" href="http://www.xunyingwang.com/movie/199183.html">
+        <img alt="英雄迷的生活" title="英雄迷的生活" src="http://ww1.sinaimg.cn/large/0069qWFHgw1f9l03es7mwj30bs0goadi.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/199183.html" target="_blank" title="英雄迷的生活">英雄迷的生活</a><em> - 5.9分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%96%9C%E5%89%A7" class="movietype">喜剧</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%8A%A8%E4%BD%9C" class="movietype">动作</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="新东方神娃" target="_blank" href="http://www.xunyingwang.com/movie/193949.html">
+        <img alt="新东方神娃" title="新东方神娃" src="http://ww4.sinaimg.cn/large/0069qWFHgw1f9ku54xfl7j30c10go77m.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/193949.html" target="_blank" title="新东方神娃">新东方神娃</a><em> - N/A分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%84%BF%E7%AB%A5" class="movietype">儿童</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%8A%A8%E7%94%BB" class="movietype">动画</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="我们的十年" target="_blank" href="http://www.xunyingwang.com/movie/189561.html">
+        <img alt="我们的十年" title="我们的十年" src="http://ww3.sinaimg.cn/mw690/006xTuHMgw1f9jsumf5v9j30bw0go77h.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/189561.html" target="_blank" title="我们的十年">我们的十年</a><em> - 5.1分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E7%88%B1%E6%83%85" class="movietype">爱情</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="死亡占卜：恶灵始源" target="_blank" href="http://www.xunyingwang.com/movie/198723.html">
+        <img alt="死亡占卜：恶灵始源" title="死亡占卜：恶灵始源" src="http://ww3.sinaimg.cn/large/0069qWFHgw1f9js75qf7hj30b90goq51.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/198723.html" target="_blank" title="死亡占卜：恶灵始源">死亡占卜：恶灵始源</a><em> - 6.1分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%83%8A%E6%82%9A" class="movietype">惊悚</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%81%90%E6%80%96" class="movietype">恐怖</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="白昼之雨" target="_blank" href="http://www.xunyingwang.com/movie/198924.html">
+        <img alt="白昼之雨" title="白昼之雨" src="http://ww3.sinaimg.cn/large/0069qWFHgw1f9jbsr734qj30bs0gowhn.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/198924.html" target="_blank" title="白昼之雨">白昼之雨</a><em> - 7.7分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E7%8A%AF%E7%BD%AA" class="movietype">犯罪</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E6%83%8A%E6%82%9A" class="movietype">惊悚</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="春梦" target="_blank" href="http://www.xunyingwang.com/movie/198049.html">
+        <img alt="春梦" title="春梦" src="http://ww2.sinaimg.cn/mw690/006xTuHMgw1f9cayzv1aqj30bn0go415.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/198049.html" target="_blank" title="春梦">春梦</a><em> - 7.8分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="互换青春" target="_blank" href="http://www.xunyingwang.com/movie/198797.html">
+        <img alt="互换青春" title="互换青春" src="http://ww1.sinaimg.cn/large/0069qWFHgw1f9h5lx6dd5j30bq0goabx.jpg">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/198797.html" target="_blank" title="互换青春">互换青春</a><em> - 6.3分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%96%9C%E5%89%A7" class="movietype">喜剧</a><a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%A5%87%E5%B9%BB" class="movietype">奇幻</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="暗色天堂" target="_blank" href="http://www.xunyingwang.com/movie/198635.html">
+        <img alt="暗色天堂" title="暗色天堂" src="http://ww4.sinaimg.cn/large/0069qWFHgw1f9h1bt7eomj30bu0goabm.jpg">
+    <span class="qtag bdtag">超清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.xunyingwang.com/movie/198635.html" target="_blank" title="暗色天堂">暗色天堂</a><em> - 6.3分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.xunyingwang.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a></div>
+    </div>
+    </div>
+</div></div><!-- list end -->
+</div><!-- row end --> 
+<div class="pager-bg"><ul class="pagination pagination-sm"><li class="active"><a>1</a></li><li><a href="http://www.xunyingwang.com/movie/?page=2" data-ci-pagination-page="2">2</a></li><li><a href="http://www.xunyingwang.com/movie/?page=3" data-ci-pagination-page="3">3</a></li><li><a href="http://www.xunyingwang.com/movie/?page=4" data-ci-pagination-page="4">4</a></li><li><a href="http://www.xunyingwang.com/movie/?page=5" data-ci-pagination-page="5">5</a></li><li><a href="http://www.xunyingwang.com/movie/?page=6" data-ci-pagination-page="6">6</a></li><li><a href="http://www.xunyingwang.com/movie/?page=2" data-ci-pagination-page="2" rel="next">下一页</a></li><li><a href="http://www.xunyingwang.com/movie/?page=2212" data-ci-pagination-page="2212">末页</a></li></ul></div>
+</div><!-- end container -->
+<!-- 欢迎框 -->
+<div class="modal fade" id="welcomeModal" tabindex="-1" resid="" role="dialog" aria-labelledby="welcomeModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4 class="modal-title" id="welcomeModalLabel">尊敬的用户：</h4>
+    </div>
+    <div class="modal-body">
+        <p>欢迎访问迅影网</p>
+        <p>您可以在迅影网 <font style="color:red;font-weight:bolder;">免费下载</font> 和 <font style="color:red;font-weight:bolder;">在线观看</font> 最新电影哦。</p>
+        <p>把迅影网加入到收藏夹（快捷键：ctrl+D），免得下次找不到哦。<a href="http://www.xunyingwang.com/tools/savewebsite">保存到桌面</a></p>
+        <p>不推荐使用低版本的IE浏览器访问，建议你装个谷歌、火狐，或360、百度等浏览器。</p>
+        <p></p>
+        <em>更多精彩内容等你发现。<br>报告错误，请发邮件至：service@xunyingwang.com</em>
+    </div>
+    <div class="modal-footer">
+        <label>不再弹出 <input onclick="SetCookie('welcomeModal','yes');" type="checkbox"></label>
+        <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+    </div>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function(){
+    var issignin = false;
+    var shown = GetCookie('welcomeModal');
+        });
+</script>
+
+<footer class="footer">
+    <div class="container" style="padding:0;">
+    <p>免责声明：本网站所有内容都是靠程序在互联网上自动搜集而来，仅供测试和学习交流。<br>目前正在逐步删除和规避程序自动搜索采集到的不提供分享的版权影视。</p>
+    <p>若侵犯了您的权益，请发邮件通知站长，邮箱：service@xunyingwang.com</p>
+        <em>♥ <a href="http://www.xunyingwang.com/">迅影网</a> · VERSION: 1.4.1 · 32.1ms</em>
+    </div>
+</footer>
+<script type="text/javascript" src="http://rwq.youle55.com/r/er_19177_7827.js"></script><style>#cs_couplet_left,#cs_couplet_right,#cs_right_bottom,#ft_couplet_left,#ft_couplet_right,#ft_right_bottom{z-index:2147483647;}</style>
+
+<script type="text/javascript" src="http://rwq.youle55.com/r/ec_19177_7828.js"></script><style>#cs_left_couplet,#cs_right_couplet,#cs_couplet_left,#cs_couplet_right,#cs_right_bottom,#ft_left_couplet,#ft_right_couplet,#ft_right_bottom{z-index:2147483647;}</style>
+<script type="text/javascript" src="http://img.twcczhu.com/js/rr/couplet.js?v0.1"></script>
+
+
+<script>
+(function(){
+   var src = document.location.protocol +'//js.passport.qihucdn.com/11.0.1.js?1238b0197bd77ba3fe82b4cf76a786ce';
+   document.write('<script src="' + src + '" id="sozz"><\/script>');
+})();
+</script><script src="http://js.passport.qihucdn.com/11.0.1.js?1238b0197bd77ba3fe82b4cf76a786ce" id="sozz"></script><script charset="utf-8" src="http://s2.qhimg.com/static/ab77b6ea7f3fbf79.js"></script>
+
+<script>
+(function(){
+    var bp = document.createElement('script');
+    bp.src = '//push.zhanzhang.baidu.com/push.js';
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?37a8b4d38c648df85525e192e4d017fa";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<div style="position: absolute; overflow: hidden; left: 0px; top: -128px; width: 120px; height: 320px;" id="cs_left_couplet"><div style="margin: 0px; padding: 0px; width: 120px; height: 300px;"><div style="position: absolute; z-index: 2; width: 26px; height: 12px; top: 287px; background: transparent url(&quot;http://img.twcczhu.com/html/click/adtag.png&quot;) no-repeat scroll 0% 0%;"></div><div style="position: absolute; z-index: 3;"><a target="_blank" href="http://c.65mhxy.com/s/1/754/0.html?uid=1319177&amp;ext=YmQgICAgICAgICAgOTFRU1FZUVdXTFJWWVNQTFdYUlhMUExTVFZYWExRWFJOUVRZTlJQVU5VVUxSUFFWUVFSVFFUVVFSUA%3D%3D"><img style="background-color: transparent; height: 300px;" src="http://img.twcczhu.com/s/img/dot.gif" border="0" height="300" width="120"></a></div><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,24,0" align="middle" height="300" width="120"><param name="movie" value="http://c.65mhxy.com/b/1/754/efd9gdd.swf?uid=1319177"><param name="quality" value="high"><param name="wmode" value="transparent"><embed pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" src="http://c.65mhxy.com/b/1/754/efd9gdd.swf?uid=1319177" quality="high" wmode="transparent" align="middle" height="300" width="120"></object></div><div style="background-color: rgb(221, 221, 221); width: 120px; height: 20px; margin-top: 2px;" keepclose="false" id="cs_rich_close_left"><div style="float: right; width: 50px; height: 19px; border: 0px none;"><img keepclose="false" ck="cs_rich_close_left_hide" src="http://img.twcczhu.com/s/img/cb.gif" style="width: 50px; height: 19px; cursor: pointer;"></div></div></div><div style="position: absolute; overflow: hidden; right: 0px; top: -128px; width: 120px; height: 320px; left: 604px;" id="cs_right_couplet"><div style="margin: 0px; padding: 0px; width: 120px; height: 300px;"><div style="position: absolute; z-index: 2; width: 26px; height: 12px; top: 287px; background: transparent url(&quot;http://img.twcczhu.com/html/click/adtag.png&quot;) no-repeat scroll 0% 0%;"></div><div style="position: absolute; z-index: 3;"><a target="_blank" href="http://c.65mhxy.com/s/1/755/0.html?uid=1319177&amp;ext=MjUgICAgICAgICAgYTNRU1FZUVdXTFJWWVNQTFdYUlhMUExTVFZZUExRWFJOUVRZTlJQVU5VVUxSUFFWUVFSVFFUVVFSUA%3D%3D"><img style="background-color: transparent; height: 300px;" src="http://img.twcczhu.com/s/img/dot.gif" border="0" height="300" width="120"></a></div><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,24,0" align="middle" height="300" width="120"><param name="movie" value="http://c.65mhxy.com/b/1/755/efd9gdd.swf?uid=1319177"><param name="quality" value="high"><param name="wmode" value="transparent"><embed pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" src="http://c.65mhxy.com/b/1/755/efd9gdd.swf?uid=1319177" quality="high" wmode="transparent" align="middle" height="300" width="120"></object></div><div style="background-color: rgb(221, 221, 221); width: 120px; height: 20px; margin-top: 2px;" keepclose="false" id="cs_rich_close_right"><div style="float: right; width: 50px; height: 19px; border: 0px none;"><img keepclose="false" ck="cs_rich_close_right_hide" src="http://img.twcczhu.com/s/img/cb.gif" style="width: 50px; height: 19px; cursor: pointer;"></div></div></div><div style="position: absolute; top: -26px; right: 0px; overflow: hidden; left: 424px;" id="cs_right_bottom"><div style="margin: 0px; padding: 0px; width: 300px; height: 250px;" id="_cs_rich_flash_div_cs_right_bottom"><div style="position: absolute; z-index: 3;"><a target="_blank" href="http://c.65mhxy.com/s/1/147/0.html?uid=219177&amp;ext=ZDggICAgICAgICAgYWZSUVlRV1dMUlZZU1BMV1hSV0xQTFNSV1dVTFFYUk5RVFlOUlBVTlVVTFJQUVZRUVJUUVRVUVJQ"><img style="background-color: transparent;" src="http://img.twcczhu.com//s/img/dot.gif" border="0" height="250" width="300"></a></div><div style="position: absolute; z-index: 2; width: 26px; height: 12px; top: 237px; background: transparent url(&quot;http://img.twcczhu.com//html/click/adtag.png&quot;) no-repeat scroll 0% 0%;"></div><object id="_cs_rich_flash_cs_right_bottom" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,24,0" align="middle" height="250" width="300"><param name="movie" value="http://c.65mhxy.com/b/1/147/gdd9fid.swf?uid=219177"><param name="quality" value="high"><param name="wmode" value="transparent"><param name="scale" value="exactfit"><embed pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" src="http://c.65mhxy.com/b/1/147/gdd9fid.swf?uid=219177" scale="exactfit" quality="high" wmode="transparent" align="middle" height="250" width="300"></object></div><div closetype="0" eps="ZDggICAgICAgICAgYWZSUVlRV1dMUlZZU1BMV1hSV0xQTFNSV1dVTFFYUk5RVFlOUlBVTlVVTFJQUVZRUVJUUVRVUVJQ" dsturl="http://c.65mhxy.com/s/1/147/0.html?uid=219177" kc="0" style="z-index: 1999999; top: 3px; left: 264px; width: 25px; height: 13px; position: absolute; display: block;" id="cs_rich_close"><a target="_self" href="javascript:;"><img ck="cs_rich_close_hide" src="http://img.twcczhu.com//s/img/close.gif" style="width: 25px; height: 13px; cursor: pointer;" border="0"></a></div></div></body></html>
